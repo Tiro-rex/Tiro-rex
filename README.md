@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/b901d1151997777.63164e98e9362.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/b901d1151997777.63164e98e9362.gif)
 <h1 align="center">Hi 👋, I'm Vijay Thakur</h1>
 <h3 align="center">Game Developer | Front-End Developer | Passionate about Crafting Engaging and Interactive User Interfaces</h3>
 <img align="right" alt="Coding" width="400" src="https://erbiotech.com/wp-content/uploads/2018/11/developer_gif.gif">
